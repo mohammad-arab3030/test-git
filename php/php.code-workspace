@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../coverage"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../sql_injection"
+		}
+	]
+}
